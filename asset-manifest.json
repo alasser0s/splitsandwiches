@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/splitsandwiches/static/css/main.30d1f7c0.css",
-    "main.js": "/splitsandwiches/static/js/main.4c627ed0.js",
+    "main.js": "/splitsandwiches/static/js/main.d947f968.js",
     "static/js/488.70dbc16f.chunk.js": "/splitsandwiches/static/js/488.70dbc16f.chunk.js",
     "index.html": "/splitsandwiches/index.html",
     "main.30d1f7c0.css.map": "/splitsandwiches/static/css/main.30d1f7c0.css.map",
-    "main.4c627ed0.js.map": "/splitsandwiches/static/js/main.4c627ed0.js.map",
+    "main.d947f968.js.map": "/splitsandwiches/static/js/main.d947f968.js.map",
     "488.70dbc16f.chunk.js.map": "/splitsandwiches/static/js/488.70dbc16f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30d1f7c0.css",
-    "static/js/main.4c627ed0.js"
+    "static/js/main.d947f968.js"
   ]
 }
