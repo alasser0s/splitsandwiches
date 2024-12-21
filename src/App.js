@@ -10,7 +10,6 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router>
       <div className="flex flex-col min-h-screen">
         <Toaster position="top-center" />
         <Navbar />
@@ -25,7 +24,6 @@ function App() {
         </main>
         <Footer />
       </div>
-    </Router>
   );
 }
 
